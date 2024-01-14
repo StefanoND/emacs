@@ -7,3 +7,6 @@
 [submodule ".emacs.d"]
 	path = .emacs.d
 	url = https://github.com/plexus/chemacs2
+[submodule ".stemacs.d"]
+	path = .stemacs.d
+	url = https://github.com/StefanoND/stemacs

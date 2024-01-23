@@ -10,3 +10,6 @@
 [submodule ".stemacs.d"]
 	path = .stemacs.d
 	url = https://github.com/StefanoND/stemacs
+[submodule "doomemacs"]
+	path = doomemacs
+	url = https://github.com/StefanoND/doomemacs
